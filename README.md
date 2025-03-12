@@ -24,9 +24,9 @@ An attractive and fully functional eCommerce web application built with the MERN
 ## 📸 Screenshots 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8b08098a-8ad2-4ed1-bc34-0b01474db458" alt="Screenshot 1" width="300" height="300"/>
-  <img src="https://github.com/user-attachments/assets/02672edf-f0f4-4dd3-85cc-3901eb8ed2f5" alt="Screenshot 2" width="300" height="300"/>
-  <img src="https://github.com/user-attachments/assets/279e2348-a0d9-46a8-b336-8bf52e154f61" alt="Screenshot 3" width="300" height="300"/>
+  <img src="https://github.com/user-attachments/assets/8b08098a-8ad2-4ed1-bc34-0b01474db458" alt="Screenshot 1" />
+  <img src="https://github.com/user-attachments/assets/02672edf-f0f4-4dd3-85cc-3901eb8ed2f5" alt="Screenshot 2" />
+  <img src="https://github.com/user-attachments/assets/279e2348-a0d9-46a8-b336-8bf52e154f61" alt="Screenshot 3" />
 </p>
 
 ## ⚡ Installation & Setup
