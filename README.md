@@ -93,10 +93,13 @@ npm start
 2. **Backend**: Deploy on Render
 3. **MongoDB**: Use MongoDB Atlas for cloud database
 
+## 🔗 visit 
+https://ecommerce-mern-mu.vercel.app/
+
 ## 🤝 Contributing
 
 Feel free to submit issues or pull requests. Any contributions are welcome!
 
  
 ---
-### 🌟 If you like this project, don't forget to give it a ⭐ on [GitHub](https://github.com/yourusername/mern-ecommerce)!
+### 🌟 If you like this project, don't forget to give it a ⭐ on [GitHub](https://github.com/Aryanpatel1066/ecommerce-mern)!
