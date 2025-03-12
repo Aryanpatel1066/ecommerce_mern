@@ -58,6 +58,12 @@ function AddressDetail() {
       toast.error("All fields are required!", { position: "top-right" });
       return false;
     }
+    const phoneRegex = /^[0-9]{10,15}$/;
+    if (!phoneRegex.test(phone.trim())) {
+        toast.error("Phone number must be between 10 and 15 digits!", { position: "top-right" });
+        return false;
+    }
+
     return true;
   };
 

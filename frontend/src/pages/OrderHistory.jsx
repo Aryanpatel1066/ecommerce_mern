@@ -39,7 +39,8 @@ export default function OrderHistory() {
 
                 {loading && <p className="text-center text-gray-600">Loading...</p>}
 
-                {error && <p className="text-center text-red-500">{error}</p>}
+                {error &&  <p className="text-center text-red-500">{error}</p>}
+
 
                 {!loading && orders.length === 0 && !error && (
                     <p className="text-center text-gray-600">No orders found.</p>
