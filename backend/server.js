@@ -8,7 +8,7 @@ const UserModel = require("./models/user.model");
 
 const app = express();
 const corsOptions = {
-  origin: "https://ecommerce-mern-seven-teal.vercel.app" ,  
+  origin: "https://ecommerce-mern-mu.vercel.app" ,  
   methods: ["GET", "POST", "PUT", "DELETE"],   
   allowedHeaders: ["Content-Type", "Authorization"],  
   credentials: true, // Required for cookies/auth headers
